@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo UI Optimizer"
+  short_description: "Analyze any repo, inventory routes and UI drift, and ship safe conversion-first UI improvements"
+  default_prompt: "Use $repo-ui-optimizer-skill to analyze the full repo, grep routes and risky global UI patterns, verify key pages visually when runnable, and optimize the UI without breaking structure, navigation, or logic."
